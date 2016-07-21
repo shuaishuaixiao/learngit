@@ -10,4 +10,8 @@ git tracks
 
 1 2
 
+<<<<<<< HEAD
 Creating a new branch is quick hao simple.
+=======
+Creating a new branch is quick AND simple
+>>>>>>> feature1
